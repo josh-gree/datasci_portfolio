@@ -27,4 +27,26 @@
  - Databases
  - Communication
  - Neural Networks
- 
+ - static/dynamic webpages
+ - Reproducibility
+ - Virtual Machines
+ - HPC
+ - GPU's
+
+# Tools
+ - Languages
+  - Python
+  - R
+  - Julia
+  - Clojure
+  - Haskell
+  - C/C++
+  - lua
+  - JS/coffescript
+- Pandas/DataFrames.jl/plyr
+ - [plyr intro](http://www.r-bloggers.com/a-fast-intro-to-plyr-for-r/)
+- Numpy/Scipy
+- D3.js
+- Torch/TensorFlow/Theano/Caffe
+- Dask/Spark/Hadoop
+- Docker/Vagrant
