@@ -13,6 +13,8 @@
   - How do boundary changes reflect true demographic trends?
   - Do boundary changes give an advantage to the tory party?
   - How would parliament look if we had AV?
+  - If a progressive alliance was formed which party should stand in which constituency?
+  - How has Corbyn been portrayed in media?
 
 # Skills and techniques
  - Regression
@@ -50,3 +52,5 @@
   - Torch/TensorFlow/Theano/Caffe
   - Dask/Spark/Hadoop
   - Docker/Vagrant
+  - AWS/Azzure
+  - [gensim](https://radimrehurek.com/gensim/)
