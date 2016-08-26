@@ -15,6 +15,10 @@
   - How would parliament look if we had AV?
   - If a progressive alliance was formed which party should stand in which constituency?
   - How has Corbyn been portrayed in media?
+  - leaders speeches through time -> http://tinyurl.com/zd4t2va,
+    http://tinyurl.com/h8fnj2n
+- Music
+  - Spotify analysis...
 
 # Skills and techniques
  - Regression
