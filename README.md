@@ -19,6 +19,8 @@
     http://tinyurl.com/h8fnj2n
 - Music
   - Spotify analysis...
+- Language
+ - zuckerberg files -> http://dc.uwm.edu/zuckerberg_files_transcripts/index.html 
 
 # Skills and techniques
  - Regression
