@@ -5,6 +5,7 @@
   - Evidence for grade inflation?
   - How does A-level mathematics prepare students for STEM subjects in    university?
   - What does computer science look like in secondary schools?
+  - FEEG python course automatic marking system - has the students code been stored?
 - Economics
   - How has Tory government changed the UK economy since 2010?
   - How much does the uk 'make'?
@@ -21,6 +22,9 @@
   - Spotify analysis...
 - Language
  - zuckerberg files -> http://dc.uwm.edu/zuckerberg_files_transcripts/index.html 
+
+# Datasets
+ - https://github.com/openimages/dataset
 
 # Skills and techniques
  - Regression
@@ -63,3 +67,10 @@
 
 # Interesting Papers
   - https://arxiv.org/pdf/1608.05343v1.pdf (synthetic gradients for ANN - uses a network to approximate backprop signal)
+
+# Projects Underway
+  - Confernce Speeches NLP
+  - Spotify Data
+  - Presidential Debate tweet analysis
+  - UK choropleths 
+
