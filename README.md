@@ -64,7 +64,9 @@
   - Docker/Vagrant
   - AWS/Azzure
   - [gensim](https://radimrehurek.com/gensim/)
-
+  - [stripe](https://stripe.com/gb) online payments
+  - [ngrok](https://ngrok.com/) secure tunnels and simulated post requests
+ 
 # Interesting Papers
   - https://arxiv.org/pdf/1608.05343v1.pdf (synthetic gradients for ANN - uses a network to approximate backprop signal)
 
